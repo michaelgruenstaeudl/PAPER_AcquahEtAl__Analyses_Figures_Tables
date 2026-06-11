@@ -66,10 +66,17 @@ python SCRIPT__generating_genome_map.py \
 ![Complete genome map](VIZ__GenomeMap/GenomeMap_withLegend_2026_05_27.png)
 
 
+#### Figure: Comparative genomic analyses
+The code for creating the following figure is displayed [here](CODE__Comparative_genomic_analyses.md).
+
+![Dotplot figure](VIZ__Comparative_genomic_analyses/Limnothrix_sp_BLA16_vs_BacterialChr__MUMmer4.dotplot.png)
+
+
 #### Figure: Genomic inversion testing
 The code for creating the following figure is displayed [here](CODE__Genomic_inversion_testing.md).
 
 ![Compound figure on genomic inversion testing](VIZ__Figure_Genomic_inversion_testing/Fig_Genomic_inversion__COMBINED.png)
+
 
 
 #### Table: Custom PCR primers for genomic inversion testing
