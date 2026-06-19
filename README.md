@@ -7,11 +7,17 @@ The analysis files of the data visualized here can be found on [Zenodo.org](http
 
 ### Visualizations
 
-#### Figure Photo collage
+#### Figure - Cultivation photo collage
 ```bash
-bash SCRIPT__arrange_subimages_for_photo_collage.sh DATA__Subimages_for_PhotoCollage/ VIZ__PhotoCollage/PhotoCollage.jpg
+bash SCRIPT__arrange_subimages_for_photo_collage__cultivation.sh DATA__Subimages_for_PhotoCollage__Cultivation/ VIZ__PhotoCollage/PhotoCollage_Cultivation.jpg
 ```
-![Photo collage of sampling at HorseThief Reservoir](VIZ__PhotoCollage/PhotoCollage.jpg)
+![Photo collage of sampling at HorseThief Reservoir](VIZ__PhotoCollage/PhotoCollage_Cultivation.jpg)
+
+#### Figure - Limnothrix photo collage
+```bash
+bash SCRIPT__arrange_subimages_for_photo_collage__Limnothrix.sh DATA__Subimages_for_PhotoCollage__Limnothrix/ VIZ__PhotoCollage/PhotoCollage_Limnothrix.jpg
+```
+![Photo collage of Limnothrix](VIZ__PhotoCollage/PhotoCollage_Limnothrix.jpg)
 
 #### Figure: 16S rRNA metagenomics
 The code for creating the following figure is displayed [here](CODE__Figure_16S_rRNA_metagenomics.md).
