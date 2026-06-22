@@ -90,34 +90,40 @@ The following oligonucleotide PCR primers were designed and used in the genomic 
 
 | Inversion | Oligo Name | Oligo Sequence (5' to 3') | Approx. amplicon length |
 | --------- | ---------- | ------------------------- | ----------------------- |
-| 1         | sta.F      | AGCTARARAATCGCGCGATTAY    | Inv1.sta: 300 bp        |
-| 1         | sta.R      | GGAGCATCAACCATGAAACAGC    |                         |
-| 1         | end.F      | ATCCAGATTGGTACTTGGAAGCG   | Inv1.end: 400 bp        |
-| 1         | end.R      | CTAGACTAAACTTCGGGGGTAGAC  |                         |
+| 1         | sta_F      | AGCTARARAATCGCGCGATTAY    | Inv1_sta: 300 bp        |
+| 1         | sta_R      | GGAGCATCAACCATGAAACAGC    |                         |
+| 1         | end_F      | ATCCAGATTGGTACTTGGAAGCG   | Inv1_end: 400 bp        |
+| 1         | end_R      | CTAGACTAAACTTCGGGGGTAGAC  |                         |
 | ---       | ---        | ---                       | ---                     |
-| 2         | sta.F      | TTGTGCATACCAAGTCCAAAAGTC  | Inv2.sta: 450 bp        |
-| 2         | sta.R      | GGTAAGGAATTCGGGCTGATAGTA  |                         |
-| 2         | end.F      | AAAACAGGAACMAAATAGCAGGGG  | Inv2.end: 120 bp        |
-| 2         | end.R      | GATTTGTCAGCGTTAGAGATTGGG  |                         |
+| 2         | sta_F      | TTGTGCATACCAAGTCCAAAAGTC  | Inv2_sta: 450 bp        |
+| 2         | sta_R      | GGTAAGGAATTCGGGCTGATAGTA  |                         |
+| 2         | end_F      | AAAACAGGAACMAAATAGCAGGGG  | Inv2_end: 120 bp        |
+| 2         | end_R      | GATTTGTCAGCGTTAGAGATTGGG  |                         |
 | ---       | ---        | ---                       | ---                     |
-| 3         | sta.F      | AGGTCTAGCACTTCTGAGAGGAT   | Inv3.sta: 3000 bp       |
-| 3         | sta.R      | GAAATTTTCAGCCGAATTCGCAC   |                         |
-| 3         | end.F      | CGTTGCCCATCCCTGAAGAT      | Inv3.end: 1900 bp       |
-| 3         | end.R      | AGAGCCGATCGTTGCGATAG      |                         |
+| 3         | sta_F      | AGGTCTAGCACTTCTGAGAGGAT   | Inv3_sta: 3000 bp       |
+| 3         | sta_R      | GAAATTTTCAGCCGAATTCGCAC   |                         |
+| 3         | end_F      | CGTTGCCCATCCCTGAAGAT      | Inv3_end: 1900 bp       |
+| 3         | end_R      | AGAGCCGATCGTTGCGATAG      |                         |
 | ---       | ---        | ---                       | ---                     |
-| 4         | sta.F      | CCCAATGGTCACGMAAGGGTTAAT  | Inv4.sta: 1900 bp       |
-| 4         | sta.R      | AAGGCATTGAACAAGGTATTGAGC  |                         |
-| 4         | end.F      | AAGCSAWGAAASAKYACCCARACT  | Inv4.end: 1300 bp       |
-| 4         | end.R      | YACCTACTAACTGCCTCATAGCAT  |                         |
+| 4         | sta_F      | CCCAATGGTCACGMAAGGGTTAAT  | Inv4_sta: 1900 bp       |
+| 4         | sta_R      | AAGGCATTGAACAAGGTATTGAGC  |                         |
+| 4         | end_F      | AAGCSAWGAAASAKYACCCARACT  | Inv4_end: 1300 bp       |
+| 4         | end_R      | YACCTACTAACTGCCTCATAGCAT  |                         |
 | ---       | ---        | ---                       | ---                     |
-| 5         | sta.F      | TYRCCAGTTCTTGMAATGCTGATT  | Inv5.sta: 300 bp        |
-| 5         | sta.R      | TTTATCTATCAACGCTGTTTCGCC  |                         |
-| 5         | end.F      | GCCATGTATTTGGATGTGTTGGAA  | Inv5.end: 470 bp        |
-| 5         | end.R      | GCGATAGGCCCAAATCATAATTCC  |                         |
+| 5         | sta_F      | TYRCCAGTTCTTGMAATGCTGATT  | Inv5_sta: 300 bp        |
+| 5         | sta_R      | TTTATCTATCAACGCTGTTTCGCC  |                         |
+| 5         | end_F      | GCCATGTATTTGGATGTGTTGGAA  | Inv5_end: 470 bp        |
+| 5         | end_R      | GCGATAGGCCCAAATCATAATTCC  |                         |
 | ---       | ---        | ---                       | ---                     |
-| 6         | sta.F      | AAAATCCGCCGAAGAAAATTTGC   | Inv6.sta: 2000 bp       |
-| 6         | sta.R      | GGGAAGACCATYAAGGAAGCAGA   |                         |
-| 6         | end.F      | ACAAAAACAACGAACAGGTAGGG   | Inv6.end: 290 bp        |
-| 6         | end.R      | TTAACAATCCTTTCCCYACACCT   |                         |
+| 6         | sta_F      | AAAATCCGCCGAAGAAAATTTGC   | Inv6_sta: 2000 bp       |
+| 6         | sta_R      | GGGAAGACCATYAAGGAAGCAGA   |                         |
+| 6         | end_F      | ACAAAAACAACGAACAGGTAGGG   | Inv6_end: 290 bp        |
+| 6         | end_R      | TTAACAATCCTTTCCCYACACCT   |                         |
 
 The same table in LaTeX format [here](TABLES/TABLE_Custom_PCR_primers_for_genomic_inversion_testing.tex).
+
+#### Figure - Microcystin ELISA
+```bash
+python SCRIPT_visualize_microcystin_elisa.py ./DATA__Microcystin_assessment/Microcystin_ADDA-ELISA__RESULTS_2026-04-29.CSV
+```
+![Foo bar baz](VIZ__Microcystin_assessment/FooBarBaz.jpg)

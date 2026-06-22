@@ -1,0 +1,50 @@
+1560200  Version 1.06   ,,,,,,,,,,,,,
+4/29/2026 16:43,,,,,,,,,,,,,
+Serial Number:,2004212C        ,,,,,,,,,,,,
+Protocol Name:,Sample assignment map,,,,,,,,,,,,
+Read:,Normal, Off,,,,,,,,,,,
+Blanks:,None,,,,,,,,,,,,
+,,,,,,,,,,,,,
+450,,1,2,3,4,5,6,7,8,9,10,11,12
+,A,Standard 0,Standard 4,Big Creek 1-27-2026 (B),UTEX-Limnothrix (F),Trexel Lake 11-12-25 (J),"Big Creek, Hays (N)",Trexel 01-27-26 (R),Empty,Empty,Empty,Empty,Empty
+,B,Standard 0,Standard 4,Big Creek 1-27-2026 (B),UTEX-Limnothrix (F),Trexel Lake 11-12-25 (J),"Big Creek, Hays (N)",Trexel 01-27-26 (R),Empty,Empty,Empty,Empty,Empty
+,C,Standard 1,Standard 5,Fossil Lake 27-03-2026 (C),Limnotrhix-UTEX (G),Fossil Lake (K),Limnothrix-UTEX (O),Empty,Empty,Empty,Empty,Empty,Empty
+,D,Standard 1,Standard 5,Fossil Lake 27-03-2026 (C),Limnotrhix-UTEX (G),Fossil Lake (K),Limnothrix-UTEX (O),Empty,Empty,Empty,Empty,Empty,Empty
+,E,Standard 2,Control,UTEX Limnothrix (D),Limnothrix 27-03-26 (H),Fossil Lake (L),Limnothrix-UTEX (P),Empty,Empty,Empty,Empty,Empty,Empty
+,F,Standard 2,Control,UTEX Limnothrix (D),Limnothrix 27-03-26 (H),Fossil Lake (L),Limnothrix-UTEX (P),Empty,Empty,Empty,Empty,Empty,Empty
+,G,Standard 3,Big Creek Hays (A),BGII (+H) Fossil Lake (E),Fossil Lake (I),Trexel Lake (M),Fossil Lake 01-27-2026 (Q),Empty,Empty,Empty,Empty,Empty,Empty
+,H,Standard 3,Big Creek Hays (A),BGII (+H) Fossil Lake (E),Fossil Lake (I),Trexel Lake (M),Fossil Lake 01-27-2026 (Q),Empty,Empty,Empty,Empty,Empty,Empty
+,,,,,,,,,,,,,
+1560200  Version 1.06   ,,,,,,,,,,,,,
+4/29/2026 19:24,,,,,,,,,,,,,
+Serial Number:,2004212C        ,,,,,,,,,,,,
+Protocol Name:,ADDA ELISA,,,,,,,,,,,,
+Read:,Normal, Off,,,,,,,,,,,
+Blanks:,None,,,,,,,,,,,,
+,,,,,,,,,,,,,
+450,,1,2,3,4,5,6,7,8,9,10,11,12
+,A,1.778,0.626,1.54,1.786,1.737,1.655,1.742,0.034,0.044,0.041,0.04,0.04
+,B,1.913,0.559,1.702,1.783,1.645,1.752,1.745,0.037,0.042,0.037,0.04,0.038
+,C,1.643,0.425,1.861,1.748,1.602,1.779,0.046,0.039,0.036,0.038,0.042,0.038
+,D,1.592,0.428,1.656,1.787,1.734,1.662,0.044,0.037,0.042,0.044,0.043,0.041
+,E,1.31,0.955,1.704,1.862,1.75,1.746,0.044,0.037,0.027,0.044,0.041,0.04
+,F,1.283,0.995,1.899,1.922,1.795,1.689,0.045,0.034,0.048,0.045,0.039,0.038
+,G,0.854,1.721,1.718,1.72,1.683,1.78,0.033,0.042,0.044,0.039,0.04,0.048
+,H,0.89,1.807,1.864,1.714,1.811,1.766,0.032,0.051,0.04,0.038,0.038,0.082
+,,,,,,,,,,,,,
+1560200  Version 1.06   ,,,,,,,,,,,,,
+4/29/2026 19:26,,,,,,,,,,,,,
+Serial Number:,2004212C        ,,,,,,,,,,,,
+Protocol Name:,ADDA ELISA,,,,,,,,,,,,
+Read:,Normal, Off,,,,,,,,,,,
+Blanks:,None,,,,,,,,,,,,
+,,,,,,,,,,,,,
+450,,1,2,3,4,5,6,7,8,9,10,11,12
+,A,1.774,0.63,1.54,1.794,1.737,1.659,1.749,0.034,0.044,0.041,0.04,0.04
+,B,1.919,0.562,1.704,1.792,1.645,1.755,1.762,0.037,0.042,0.037,0.04,0.038
+,C,1.641,0.425,1.86,1.754,1.6,1.782,0.046,0.039,0.036,0.038,0.042,0.038
+,D,1.59,0.43,1.668,1.79,1.729,1.669,0.044,0.037,0.042,0.044,0.043,0.041
+,E,1.306,0.956,1.703,1.866,1.75,1.75,0.044,0.037,0.027,0.043,0.041,0.04
+,F,1.287,0.994,1.899,1.911,1.795,1.694,0.046,0.034,0.048,0.045,0.039,0.038
+,G,0.848,1.721,1.718,1.725,1.69,1.78,0.033,0.042,0.044,0.039,0.04,0.048
+,H,0.888,1.804,1.859,1.725,1.817,1.766,0.032,0.051,0.04,0.037,0.038,0.082

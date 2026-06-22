@@ -1,0 +1,101 @@
+well,row,column,absorbance,scan,sample
+A1,A,1,1.778,1,Standard 0
+A2,A,2,0.626,1,Standard 4
+A3,A,3,1.54,1,Big Creek 1-27-2026 (B)
+A4,A,4,1.786,1,UTEX-Limnothrix (F)
+A5,A,5,1.737,1,Trexel Lake 11-12-25 (J)
+A6,A,6,1.655,1,"Big Creek, Hays (N)"
+A7,A,7,1.742,1,Trexel 01-27-26 (R)
+B1,B,1,1.913,1,Standard 0
+B2,B,2,0.559,1,Standard 4
+B3,B,3,1.702,1,Big Creek 1-27-2026 (B)
+B4,B,4,1.783,1,UTEX-Limnothrix (F)
+B5,B,5,1.645,1,Trexel Lake 11-12-25 (J)
+B6,B,6,1.752,1,"Big Creek, Hays (N)"
+B7,B,7,1.745,1,Trexel 01-27-26 (R)
+C1,C,1,1.643,1,Standard 1
+C2,C,2,0.425,1,Standard 5
+C3,C,3,1.861,1,Fossil Lake 27-03-2026 (C)
+C4,C,4,1.748,1,Limnotrhix-UTEX (G)
+C5,C,5,1.602,1,Fossil Lake (K)
+C6,C,6,1.779,1,Limnothrix-UTEX (O)
+D1,D,1,1.592,1,Standard 1
+D2,D,2,0.428,1,Standard 5
+D3,D,3,1.656,1,Fossil Lake 27-03-2026 (C)
+D4,D,4,1.787,1,Limnotrhix-UTEX (G)
+D5,D,5,1.734,1,Fossil Lake (K)
+D6,D,6,1.662,1,Limnothrix-UTEX (O)
+E1,E,1,1.31,1,Standard 2
+E2,E,2,0.955,1,Control
+E3,E,3,1.704,1,UTEX Limnothrix (D)
+E4,E,4,1.862,1,Limnothrix 27-03-26 (H)
+E5,E,5,1.75,1,Fossil Lake (L)
+E6,E,6,1.746,1,Limnothrix-UTEX (P)
+F1,F,1,1.283,1,Standard 2
+F2,F,2,0.995,1,Control
+F3,F,3,1.899,1,UTEX Limnothrix (D)
+F4,F,4,1.922,1,Limnothrix 27-03-26 (H)
+F5,F,5,1.795,1,Fossil Lake (L)
+F6,F,6,1.689,1,Limnothrix-UTEX (P)
+G1,G,1,0.854,1,Standard 3
+G2,G,2,1.721,1,Big Creek Hays (A)
+G3,G,3,1.718,1,BGII (+H) Fossil Lake (E)
+G4,G,4,1.72,1,Fossil Lake (I)
+G5,G,5,1.683,1,Trexel Lake (M)
+G6,G,6,1.78,1,Fossil Lake 01-27-2026 (Q)
+H1,H,1,0.89,1,Standard 3
+H2,H,2,1.807,1,Big Creek Hays (A)
+H3,H,3,1.864,1,BGII (+H) Fossil Lake (E)
+H4,H,4,1.714,1,Fossil Lake (I)
+H5,H,5,1.811,1,Trexel Lake (M)
+H6,H,6,1.766,1,Fossil Lake 01-27-2026 (Q)
+A1,A,1,1.774,2,Standard 0
+A2,A,2,0.63,2,Standard 4
+A3,A,3,1.54,2,Big Creek 1-27-2026 (B)
+A4,A,4,1.794,2,UTEX-Limnothrix (F)
+A5,A,5,1.737,2,Trexel Lake 11-12-25 (J)
+A6,A,6,1.659,2,"Big Creek, Hays (N)"
+A7,A,7,1.749,2,Trexel 01-27-26 (R)
+B1,B,1,1.919,2,Standard 0
+B2,B,2,0.562,2,Standard 4
+B3,B,3,1.704,2,Big Creek 1-27-2026 (B)
+B4,B,4,1.792,2,UTEX-Limnothrix (F)
+B5,B,5,1.645,2,Trexel Lake 11-12-25 (J)
+B6,B,6,1.755,2,"Big Creek, Hays (N)"
+B7,B,7,1.762,2,Trexel 01-27-26 (R)
+C1,C,1,1.641,2,Standard 1
+C2,C,2,0.425,2,Standard 5
+C3,C,3,1.86,2,Fossil Lake 27-03-2026 (C)
+C4,C,4,1.754,2,Limnotrhix-UTEX (G)
+C5,C,5,1.6,2,Fossil Lake (K)
+C6,C,6,1.782,2,Limnothrix-UTEX (O)
+D1,D,1,1.59,2,Standard 1
+D2,D,2,0.43,2,Standard 5
+D3,D,3,1.668,2,Fossil Lake 27-03-2026 (C)
+D4,D,4,1.79,2,Limnotrhix-UTEX (G)
+D5,D,5,1.729,2,Fossil Lake (K)
+D6,D,6,1.669,2,Limnothrix-UTEX (O)
+E1,E,1,1.306,2,Standard 2
+E2,E,2,0.956,2,Control
+E3,E,3,1.703,2,UTEX Limnothrix (D)
+E4,E,4,1.866,2,Limnothrix 27-03-26 (H)
+E5,E,5,1.75,2,Fossil Lake (L)
+E6,E,6,1.75,2,Limnothrix-UTEX (P)
+F1,F,1,1.287,2,Standard 2
+F2,F,2,0.994,2,Control
+F3,F,3,1.899,2,UTEX Limnothrix (D)
+F4,F,4,1.911,2,Limnothrix 27-03-26 (H)
+F5,F,5,1.795,2,Fossil Lake (L)
+F6,F,6,1.694,2,Limnothrix-UTEX (P)
+G1,G,1,0.848,2,Standard 3
+G2,G,2,1.721,2,Big Creek Hays (A)
+G3,G,3,1.718,2,BGII (+H) Fossil Lake (E)
+G4,G,4,1.725,2,Fossil Lake (I)
+G5,G,5,1.69,2,Trexel Lake (M)
+G6,G,6,1.78,2,Fossil Lake 01-27-2026 (Q)
+H1,H,1,0.888,2,Standard 3
+H2,H,2,1.804,2,Big Creek Hays (A)
+H3,H,3,1.859,2,BGII (+H) Fossil Lake (E)
+H4,H,4,1.725,2,Fossil Lake (I)
+H5,H,5,1.817,2,Trexel Lake (M)
+H6,H,6,1.766,2,Fossil Lake 01-27-2026 (Q)
